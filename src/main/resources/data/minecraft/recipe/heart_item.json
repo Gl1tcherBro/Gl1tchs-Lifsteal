@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "T": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "G": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  "pattern": [
+    " G ",
+    "OTO",
+    " N "
+  ],
+  "result": {
+    "count": 1,
+    "id": "lifesteal:heart_item"
+  }
+}

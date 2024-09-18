@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "gl1tch.lifesteal.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"NBTStuffs",
+		"PlayerManagerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
